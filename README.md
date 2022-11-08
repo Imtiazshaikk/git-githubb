@@ -1,2 +1,2 @@
 # git-githubb
-This is first Repository i Created.
+This is training purposes.
